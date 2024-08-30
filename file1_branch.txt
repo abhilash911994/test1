@@ -1,2 +1,4 @@
 hello iam second line from branch1 by dev1
 third line from branch1
+hello iam second line from branch1 by dev1
+fourth line from branch1
